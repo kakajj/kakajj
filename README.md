@@ -55,8 +55,8 @@
 ### 🤝🏻 &nbsp;Contact with Me
 
 <p align="left">
-<a href="www.github.com/kakajj">
-📧 Email nachanon.montikanon@mail.kmutt.ac.th</a>
+<a href="mailto:nachanon.montikanon@mail.kmutt.ac.th">
+📧 Email</a>
 <a href="https://www.instagram.com/natchy2424/">✨ Instagram </a>
 <a href="https://www.facebook.com/nachanon.montikanon/">📘 Facebook </a>
 </p>
