@@ -24,24 +24,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/kakajj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakajj#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/kakajj">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&include_all_commits=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
