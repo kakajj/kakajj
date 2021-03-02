@@ -24,14 +24,38 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/kakajj">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakajj#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/kakajj">
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&include_all_commits=true"/>
-  <img align="right" height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a><img alt="kakajj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&count_private=true&hide=" /></a>
+</details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a><img alt="kakajj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakajj&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
