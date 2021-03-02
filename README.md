@@ -14,7 +14,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -22,23 +22,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/kakajj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&include_all_commits=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="nachanon.montikanon@mail.kmutt.ac.th">Email</a>
-<a href="https://www.instagram.com/natchy2424/">Instagram</a>
-<a href="https://www.facebook.com/nachanon.montikanon/">Facebook</a>
+<p align="left">
+<a href="nachanon.montikanon@mail.kmutt.ac.th">
+📧 Email </a>
+<a href="https://www.instagram.com/natchy2424/">✨ Instagram </a>
+<a href="https://www.facebook.com/nachanon.montikanon/">📘 Facebook </a>
 </p>
 
 -----
