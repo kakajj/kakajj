@@ -1,12 +1,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+🥰 &nbsp; My name is Nachanon Montikanon. You can call me JJ. I'm 20 years old.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Information Technology at the King Mongkut’s University of Technology Thonburi, Thailand.\
-🌱 &nbsp;I'm on track for learning more about Node.js and Vue.js to become FullStack Developer.\
-✍️ &nbsp;In my free time, I pursue watching  netflix's series and listening favorite musics as hobbies/side hustles.\
+🌱 &nbsp;I'm on track for learning more to become FullStack Developer.\
+✍️ &nbsp;In my free time, I pursue watching  Netflix's series and listening favorite musics as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at nachanon.montikanon@mail.kmutt.ac.th! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at nachanon.montikanon@mail.kmutt.ac.th! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://github.com/kakajj">
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&include_all_commits=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="right" height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
