@@ -39,13 +39,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <details>
-  <summary>📊 GitHub Profile Stats</summary>
+  <summary>📊 GitHub Profile Stats (CLICK)</summary>
   <br/>
   <a><img alt="kakajj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>💻 Most used languages (CLICK)</summary>
   <br/>
   <a><img alt="kakajj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakajj&langs_count=10&layout=compact#" /></a>
   <br/>
@@ -55,8 +55,8 @@
 ### 🤝🏻 &nbsp;Contact with Me
 
 <p align="left">
-<a href="nachanon.montikanon@mail.kmutt.ac.th">
-📧 Email </a>
+<a href="www.github.com/kakajj">
+📧 Email nachanon.montikanon@mail.kmutt.ac.th</a>
 <a href="https://www.instagram.com/natchy2424/">✨ Instagram </a>
 <a href="https://www.facebook.com/nachanon.montikanon/">📘 Facebook </a>
 </p>
