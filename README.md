@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Information Technology at the King Mongkut’s University of Technology Thonburi, Thailand.\
 🌱 &nbsp;I'm on track for learning more about Node.js and Vue.js to become FullStack Developer.\
 ✍️ &nbsp;In my free time, I pursue watching  netflix's series and listening favorite musics as hobbies/side hustles.\
@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://github.com/kakajj">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kakajj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakajj&show_icons=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakajj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
