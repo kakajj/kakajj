@@ -34,7 +34,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![MySQL Oracle DBMS](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CICD-05122A?style=flat)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
