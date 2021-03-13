@@ -3,7 +3,7 @@
 🥰 &nbsp;My name is <b>Nachanon Montikanon</b>. You can call me <b>JJ</b>. I'm <b>20 years old</b>.\
 💡  &nbsp;almost recent years for joining Github, but just updating activities and begin self-learning programming several months ago :D.\
 🎓 &nbsp;I'm currently studying <b>Information Technology</b> at the King Mongkut’s University of Technology Thonburi, Thailand.\
-🌱 &nbsp;I'm on track for learning more to become FullStack Developer.\
+🌱 &nbsp;I'm on track for learning more about <b>Node.js</b> and <b>Vue.js</b>.\
 ✍️ &nbsp;In my free time, I love to watching  Netflix's series and listening favorite musics.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nachanon.montikanon@mail.kmutt.ac.th! I'll try to respond as soon as I can.
