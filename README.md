@@ -18,14 +18,14 @@
 ![Nuxt.js](https://img.shields.io/badge/Vue-Nuxt.js-green)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue-Vue.js%20(v.2%20Option%20API)-yellowgreen)&nbsp;
 
-### &nbsp;I'm familiar with..
+### &nbsp;I'm beginner with..
 ![Basic R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![Basic Java Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Basic Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Basic Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Basic Pyhton](https://img.shields.io/badge/-Python-lightgrey)&nbsp;.
 
-### &nbsp;Databases and Tools
+### &nbsp;Databases and Tools I've used.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
