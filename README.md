@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 🥰 &nbsp;My name is <b>Nachanon Montikanon</b>. You can call me <b>JJ</b>. I'm <b>21 years old</b>.\
-💡  &nbsp;almost recent years for joining Github, just updating activities and begin self-learning programming several months ago :D.\
+💡  &nbsp;almost recent years for joining Github, just updating activities and begin self-learning programming several years ago :D.\
 🎓 &nbsp;I'm third-year student studying <b>Information Technology</b> at the King Mongkut’s University of Technology Thonburi, Thailand.\
 🌱 &nbsp;I'm on track for learning more about <b>React Native and Nuxt.js</b>.\
 ✍️ &nbsp;In my free time, I love to watching  Netflix's series, listening favorite musics and playing bass guitar!.\
