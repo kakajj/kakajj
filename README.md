@@ -17,7 +17,6 @@
 ![React Native w/ Expo](https://img.shields.io/badge/React-React%20Native-blue)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/Vue-Nuxt.js-green)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue-Vue.js%20(v.2%20Option%20API)-yellowgreen)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue-Vue.js%20(v.3%20Composition%20API with Typescript)-yellowgreen)&nbsp;
 
 ### &nbsp;I'm beginner with..
 ![Basic R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
